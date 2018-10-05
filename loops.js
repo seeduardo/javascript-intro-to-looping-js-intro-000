@@ -12,12 +12,3 @@ function whileLoop(number) {
   }
   return `done`
 }
-
-function doWhileLoop(array) {
-  do {
-
-  }
-  while ()
-}
-return array
-}
