@@ -17,7 +17,7 @@ function doWhileLoop(array) {
   do {
     
   }
-  while (function incrementVariable() {
-  i = i + 1;
-})
+  while ()
+}
+return array
 }
